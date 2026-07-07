@@ -1,0 +1,6 @@
+{"id": "music-composer", "text": "music-composer | Compose original music for film, games and ads | Includes scoring, theme writing, MIDI orchestration, mixing tips, sample libraries, and DAW workflow guidance for Pro Tools/Logic/Ableton."}
+{"id": "code-helper-python", "text": "code-helper-python | Write, debug and refactor Python code | Covers idiomatic Python 3.11+, common stdlib (json, asyncio, pathlib, dataclasses), pytest patterns, type hints, virtualenv/poetry, and PEP-8 enforcement."}
+{"id": "json-toolkit", "text": "json-toolkit | Parse, validate, transform and query JSON | jq-style filtering, JSON Schema validation, JSONPath, JSON-LD context resolution, plus streaming parsers for large files."}
+{"id": "data-formatter", "text": "data-formatter | Convert between data formats | CSV/TSV, JSON/JSONL, YAML, TOML, XML, Parquet round-trips with schema inference, Unicode normalization and big-int safety."}
+{"id": "sql-query-builder", "text": "sql-query-builder | Author and optimize SQL queries | Postgres/MySQL/SQLite dialects, window functions, CTEs, query plan reading, index recommendation and N+1 detection."}
+{"id": "agent-orchestrator", "text": "agent-orchestrator | Design multi-step LLM agent loops | Tool schema design, ReAct/Plan-Execute-Reflect patterns, retry/backoff, conversational state, guardrails for sensitive actions."}

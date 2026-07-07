@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Models — distributed via HuggingFace Hub, not GitHub
+models/
+
+# Environment
+.venv/
+venv/
+.env
+.env.*
+
+# IDE / OS
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs & temporary output
+*.log
+results.jsonl
